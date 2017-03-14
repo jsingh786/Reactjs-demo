@@ -9,7 +9,7 @@ import {Provider} from 'react-redux'
 import createLogger from 'redux-logger'
 import reducer from './reducers'
 import rootProposalEngine from './proposalEngine'
-import {clearError} from './actions'
+import {clearError} from './actions' 
 
 
 import App from './components/App'
